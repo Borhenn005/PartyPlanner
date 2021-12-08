@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2078125" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/drawable/background_border.xml" value="0.2078125" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/drawable/cut_card_background.xml" value="0.2078125" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/drawable/eclipse.xml" value="0.2078125" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/drawable/input_user.xml" value="0.2078125" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/drawable/round_btn.xml" value="0.2078125" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/font/risque.xml" value="0.221875" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout-w1240dp/activity_login2.xml" value="0.1" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout-w936dp/activity_login2.xml" value="0.1" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/activity_code_verification.xml" value="0.18" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/activity_create_event.xml" value="0.25" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/activity_forgot_password.xml" value="0.22" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/activity_login2.xml" value="0.33" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/activity_reset_password.xml" value="0.22" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/fragment_event.xml" value="0.22" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/fragment_notifications.xml" value="0.25" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/fragment_step1.xml" value="0.22" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/fragment_step2.xml" value="0.21" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/layout/fragment_step3.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Borhen005/AndroidStudioProjects/PartyPlanner/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/Borhen005/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/layout/activity_sign_up.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/layout/activity_create_event.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/layout/activity_detailguests.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/layout/activity_home_page.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/layout/activity_sign_up.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/layout/fragment_guests.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/layout/fragment_home.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/layout/fragment_profile.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/layout/layout_toolbar.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/layout/toolbar.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/menu/menu.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/menu/menu_home.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Dell/Desktop/PartyPlanner__/PartyPlanner__/PartyPlanner/app/src/main/res/menu/show_menu.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/font/cairo.xml" value="0.28958333333333336" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/font/cairo_black.xml" value="0.1640625" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/font/cairo_bold.xml" value="0.1640625" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/font/cairo_extralight.xml" value="0.1640625" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/activity_create_event.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/activity_detailguests.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/activity_guests.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/activity_home_page.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/activity_sign_up.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/activity_splash_screen.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/fragment_event.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/fragment_guests.xml" value="0.176" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/fragment_home.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/layout/guests_single_item.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner_2/PartyPlanner/app/src/main/res/menu/menu.xml" value="0.536" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/drawable-v24/ic_edit.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/drawable-v24/ic_more.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/drawable-v24/ic_warning.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/drawable-v24/shape_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/drawable/ic_add.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/drawable/ic_delete.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/drawable/ic_settings.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/drawable/ic_task.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/layout-w1240dp/add_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/layout-w1240dp/list_item.xml" value="0.176" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/layout/activity_create_event.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/layout/activity_splash_screen.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/layout/add_item.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/layout/fragment_guests.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/layout/fragment_home.xml" value="0.259375" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/layout/list_item.xml" value="0.536" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/menu/menu.xml" value="0.152" />
+        <entry key="..\:/Users/Dell/Downloads/Compressed/PartyPlanner__/PartyPlanner/app/src/main/res/menu/show_menu.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
